@@ -1,15 +1,3 @@
-/**************************
-**					SAKARYA ÜNÝVERSÝTESÝ
-**			         BÝLGÝSAYAR VE BÝLÝÞÝM BÝLÝMLERÝ FAKÜLTESÝ
-**				    BÝLGÝSAYAR MÜHENDÝSLÝÐÝ BÖLÜMÜ
-**				          PROGRAMLAMAYA GÝRÝÞÝ DERSÝ
-**
-**				ÖDEV NUMARASI…...: 02
-**				ÖÐRENCÝ ADI...............: Harun Mahmut Yeþiyurt
-**				ÖÐRENCÝ NUMARASI.: G211210089
-**				DERS GRUBU…………: C Group 2. Ýnstruction
-**************************/
-
 #include <math.h>
 #include <string> 
 #include <iostream>
